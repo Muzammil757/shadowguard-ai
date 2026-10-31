@@ -299,3 +299,4 @@ Events are grouped into sessions (`session_id`, else `source:pid`) and each touc
 - **Member 3:** documentation and QA.
 - **Member 4:** frontend dashboard.
 - **Member 5:** Featherless setup and pitch deck.
+
